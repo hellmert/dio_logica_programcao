@@ -4,3 +4,4 @@ Conteúdos e exercícios desenvolvidos durante o curso de Lógica de Programaç�
 
 ## Desafios
 **001 - Classificador de Nível de Heróis:** Entrega uma mensagem ao usuário com a classificação do herói conforme o seu Xp. 
+**002 - Calculadora de Partidas Rankeadas:** Calcula o saldo de vitórias de um herói e retorna seu nível conforme seu saldo.
