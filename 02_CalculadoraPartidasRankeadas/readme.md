@@ -27,4 +27,4 @@ Ao final deve se exibir uma mensagem:
 
 ## Arquivos
 
-No arquivo **js-script.js** encontra-se a resolução do desafio conforme solitado e utilizando a linguagem trabalhada em aula. Já no arquivo **py-script.py**, encontra-se a resolução utilziando Python, linguagem que atualmente tenho mais domínio. Em ambos os casos, a lógica é a mesma, mudando a sintaxe e no caso do Python, requisitando os dados ao usuário.
+No arquivo **index.js** encontra-se a resolução do desafio conforme solitado e utilizando a linguagem trabalhada em aula. Já no arquivo **script.py**, encontra-se a resolução utilziando Python, linguagem que atualmente tenho mais domínio. Em ambos os casos, a lógica é a mesma, mudando a sintaxe e no caso do Python, requisitando os dados ao usuário.
